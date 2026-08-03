@@ -1,6 +1,12 @@
 # PTFS-Explorer
 PTFS Explorer is the best Roblox PTFS script. The script should work with *most* executors.
 
+Paste this snippet into your executor and execute it to load PTFS Explorer:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dfano-dev/PTFS-Explorer/refs/heads/main/Releases/0.11.lua"))()
+```
+Execute
+
 Current Features:
 
 Current Version: 0.11
