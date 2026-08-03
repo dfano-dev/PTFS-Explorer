@@ -5,7 +5,6 @@ Paste this snippet into your executor and execute it to load PTFS Explorer:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dfano-dev/PTFS-Explorer/refs/heads/main/Releases/0.11.lua"))()
 ```
-Execute
 
 Current Features:
 
