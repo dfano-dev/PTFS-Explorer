@@ -6,8 +6,6 @@ Paste this snippet into your executor and execute it to load PTFS Explorer:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dfano-dev/PTFS-Explorer/refs/heads/main/Releases/0.12.lua"))()
 ```
 
-Current Features:
-
 Current Version: 0.11
 > [!TIP]
 > This script only works inside of [PTFS](https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator) (Pilot Training Flight Simulator)
