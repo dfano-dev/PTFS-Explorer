@@ -3,7 +3,7 @@ PTFS Explorer is the best Roblox PTFS script. The script should work with *most*
 
 Paste this snippet into your executor and execute it to load PTFS Explorer:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dfano-dev/PTFS-Explorer/refs/heads/main/Releases/0.11.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dfano-dev/PTFS-Explorer/refs/heads/main/Releases/0.12.lua"))()
 ```
 
 Current Features:
@@ -35,8 +35,8 @@ Slider that lets you adjust your jump power.
 
 <img width="259" height="275.5" alt="Plane Section" src="https://github.com/user-attachments/assets/cdc42703-faac-4e29-bbf6-a24fdb6251e2" />
 
-#### Choose Plane (Button)
-This button selects the plane that you are in the pilot seat of to use for modifications. In the future, we may add support for the co-pilot seat as well. You have to click this button before changing anything in this category. After selecting a plane all the stats in this section will reflect the stats of the plane.
+#### _Choose Plane_ (Button)
+This feature may soon be deprecated. Click this if the plane did not automatically select once you entered it (if this happens, please create an issue with an error log).
 
 #### Apply Changes (Button)
 Click this button after you've made your changes. Because of the way PTFS works, it's difficult to make this automatically apply without ruining the UX.
@@ -70,14 +70,13 @@ Teleports to the player.
 #### Share Data? (Toggle)
 As of now, this toggle does not do anything. In the future, it may share error messages and logs.
 
-
+#### Auto Select Plane (Toggle)
+Recommended to keep this on. Automatically selects any plane you enter (as long as you enter the pilot or copilot seat.)
 
 
 ## to-do
 
-Add a reset button for player modification stats.
 Add a reset button for plane stats.
-Automatically select the current plane.
 
 
 Made by [repend.](https://discord.com/users/1207042199792132127)
